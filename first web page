@@ -1,0 +1,100 @@
+<html>
+
+<body>
+  <div id="fullpage">
+
+    <header id="topnav">
+      <div class="inner">
+        <div class="logo">Home Decoration</div>
+        <nav role='navigation'>
+          <ul>
+            <li><a href="#">NEW STYLES</a></li>
+            <li><a href="#">STYLISH COLOR'S</a></li>
+
+            <li><a href="#">CONTACT US</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <section class="section s1">
+      <h1>Deco'r</h1>
+
+      <div class="hover04 column">
+        <div>
+          <figure><img src="https://1.bp.blogspot.com/-01ov9jm4ySU/VLdsy-pym9I/AAAAAAAABUg/QR9TXS_y8wo/s1600/5.jpg" /></figure>
+        </div>
+        <div>
+          <figure><img src="https://www.caandesign.com/wp-content/uploads/2015/07/Luxury-Small-Apartment-in-Taipei-studio-oj-01.jpg" /></figure>
+
+        </div>
+        <div>
+          <figure><img src="https://th.bing.com/th/id/OIP.9PfWsUockRM0zNGQOaAnewHaE8?pid=ImgDet&rs=1" /></figure>
+
+        </div>
+      </div>
+
+    </section>
+
+    <section class="section s2">
+      <h1>Different Styles</h1>
+      <div class="description">
+        <p> Living Room Idea's!</p>
+        <p>Check Out our list of inovating styles that could change your life with a splash</p>
+
+      </div>
+      <img src="https://th.bing.com/th/id/R.92adf54fb8349eb547b21d11edc322a5?rik=rw0LXxRoLfppSA&pid=ImgRaw&r=0" alt="" class="chair">
+      <img src="https://images.unsplash.com/photo-1618221710640-c0eaaa2adb49?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2089&q=80" alt="" class="chair">
+      <img src="https://images.unsplash.com/photo-1560185007-5f0bb1866cab?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80" alt="" class="chair">
+      <img src="https://images.unsplash.com/photo-1554995207-c18c203602cb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80" alt="" class="chair">
+      <img src="https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2089&q=80" alt="" class="chair">
+            <img src="https://images.unsplash.com/photo-1524758631624-e2822e304c36?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80" alt="" class="chair">
+            <img src="https://images.unsplash.com/photo-1538688525198-9b88f6f53126?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1567&q=80" alt="" class="chair">
+    </section>
+
+    
+      
+      
+      
+      
+      
+      <section class="section s3">
+      <h1>Bath Idea's</h1>
+            <div id="gallery" data-role="image-slider">
+        <input type="radio" name="gallery-1" />
+        <div class="image-slider-element">
+            <img src="https://images.unsplash.com/photo-1613849925352-96348d26bc51?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80" />
+        </div>
+
+        <input type="radio" name="gallery-1" />
+        <div class="image-slider-element">
+            <img src="https://images.unsplash.com/photo-1523772354886-34a1dc2f72e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=976&q=80" />
+        </div>
+
+        <input type="radio" name="gallery-1" />
+        <div class="image-slider-element">
+            <img src="https://images.unsplash.com/photo-1609946860441-a51ffcf22208?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1552&q=80" />
+        </div>
+
+        <input type="radio" name="gallery-1" />
+        <div class="image-slider-element">
+            <img src="https://images.unsplash.com/photo-1616537937163-387d3f079de8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=975&q=80" />
+        </div>
+
+        <input type="radio" name="gallery-1" checked="checked" />
+        <div class="image-slider-element">
+            <img src="https://images.unsplash.com/photo-1620626011761-996317b8d101?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80" />
+        </div>
+
+        <input type="radio" name="gallery-1" />
+        <div class="image-slider-element">
+            <img src="https://images.unsplash.com/photo-1618236444666-105ec54b5b69?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1557&q=80" />
+        </div>
+    </div>
+        
+        
+    </section>
+  </div>
+     
+</body>
+</html>
